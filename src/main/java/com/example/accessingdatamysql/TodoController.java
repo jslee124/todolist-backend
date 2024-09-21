@@ -50,7 +50,7 @@ public class TodoController {
     }
 
     @PostMapping("/complete")
-    public @ResponseBody String completeTodo(@RequestParam Integer id){
+    public @ResponseBody String completeTodo(@RequestParam Integer id) {
         if (todoRepository.findById(id).isPresent()) {
             Todo todo = todoRepository.findById(id).get();
             todo.setCompleted(!todo.isCompleted());
