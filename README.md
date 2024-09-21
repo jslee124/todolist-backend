@@ -1,7 +1,7 @@
 # Todo List (Backend)
 
-Welcome to the Backend of todolist-react! This application consists of both a frontend and backend. 
-The frontend is built with [Create React App](https://github.com/facebook/create-react-app). 
+Welcome to the Backend of todolist-react! This application consists of both a frontend and backend.   
+The frontend is built with [Create React App](https://github.com/facebook/create-react-app).   
 To run the full application, you'll also need to set up the frontend.
 
 ## Frontend Repository
