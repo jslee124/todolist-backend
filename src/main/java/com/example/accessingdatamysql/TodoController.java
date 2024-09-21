@@ -21,7 +21,9 @@ public class TodoController {
 
     // localhost:8080/todo/add
     @PostMapping("/add")
-    public @ResponseBody String addTodo(@RequestParam String name, @RequestParam boolean isCompleted) {
+    public @ResponseBody String addTodo(@RequestParam String name,
+                                        @RequestParam boolean isCompleted
+    ) {
         Todo newTodo = new Todo();
         newTodo.setName(name);
         newTodo.setCompleted(isCompleted);
