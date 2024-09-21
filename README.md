@@ -6,7 +6,7 @@ To run the full application, you'll also need to set up the frontend.
 
 ## Frontend Repository
 
-You can find the frontend repository [Todo List](https://github.com/jslee124/todolist-react):
+You can find the frontend repository: [Todo List](https://github.com/jslee124/todolist-react)
 
 ## Setting up the MySQL Database
 
