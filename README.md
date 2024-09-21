@@ -23,4 +23,4 @@ Then run:
 
 ## How to Run Locally
 
-Lauch the project in IntelliJ IDEA after gradle finished building.
+Launch the project in IntelliJ IDEA after gradle finished building.
