@@ -1,7 +1,10 @@
 # Todo List (Backend)
 
-Welcome to the Backend of todolist-react! This application consists of both a frontend and backend.   
-The frontend is built with [Create React App](https://github.com/facebook/create-react-app).   
+Welcome to the Backend of todolist-react! This application consists of both a frontend and backend.        
+This project is a backend application for a Todo List. It is built using Java, Spring Boot, and Gradle.  
+The backend provides RESTful APIs to manage todo items, including creating, updating, completing, and deleting todos.   
+The project also includes a MySQL database configuration to store the todo items.  
+The frontend for this application is built with [Create React App](https://github.com/facebook/create-react-app) and can be found in a separate repository.
 To run the full application, you'll also need to set up the frontend.
 
 ## Frontend Repository
